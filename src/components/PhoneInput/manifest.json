@@ -1,0 +1,15 @@
+{
+  "displayName": "Phone Input",
+  "defaultWidth": 160,
+  "defaultHeight": 24,
+  "components": "./index.js",
+  "icon": "./example-thumbnail.png",
+  "props": [
+    {
+      "name": "phoneInputFormValue",
+      "displayName": "Phone Number Field",
+      "type": "text",
+      "role": "formValue"
+    }
+  ]
+}
